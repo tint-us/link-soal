@@ -2,7 +2,8 @@
 
 **Jumlah: 75 link unik**
 
-Daftar ini disaring dari berbagai sumber untuk materi latihan: past papers, contoh soal, bank soal, soal penyisihan/final, dan tryout.
+Daftar ini disusun dari berbagai sumber untuk materi latihan: past papers, contoh soal, bank soal, soal penyisihan/final, dan tryout.
+Penulis tidak bertanggung jawab atas isi dan penggunaan file dalam link 
 
 1. **Contoh soal IYSLO**
    https://drive.google.com/drive/folders/15_sxLGqnam7RUELDhXTX0EDOhd0GL6Hv
