@@ -226,6 +226,3 @@ Penulis tidak bertanggung jawab atas isi dan penggunaan file dalam link
 
 74. **Folder Latihan TIMO / KSNR**
     https://drive.google.com/drive/folders/1oSmCEPjsCYnmzLFlNurWpLMmbzlAuOK2
-
-75. **Folder KSNR (Grade 3)**
-    https://drive.google.com/drive/folders/1Jwq6ReAJrjVA8VbRLc1ROHuhKNWQdyrL
