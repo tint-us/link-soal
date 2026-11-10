@@ -1,7 +1,5 @@
 # Daftar Link Google Drive – Latihan Soal & Past Papers
 
-**Jumlah: 75 link unik**
-
 Daftar ini disusun dari berbagai sumber untuk materi latihan: past papers, contoh soal, bank soal, soal penyisihan/final, dan tryout.
 Penulis tidak bertanggung jawab atas isi dan penggunaan file dalam link 
 
